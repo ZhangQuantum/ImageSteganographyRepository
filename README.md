@@ -12,7 +12,7 @@
 # Hide Binary into the Image
 
 | Abb.      | Title                                                                                          | Embedding principle | Information type |Robustness| Publication year | URL |
-|-----------|------------------------------------------------------------------------------------------------|---------------------|------------------|------------------|-----|
+|-----------|------------------------------------------------------------------------------------------------|---------------------|------------------|-----|------------------|-----|
 | TransStego     | [A transformer-based adversarial network framework for steganography](https://www.sciencedirect.com/science/article/pii/S0957417425000132)                   | Generative          | Binary            |Y| 2025             | [Forked code](https://github.com/ZhangQuantum/TransStego)  |
 | GSD | [Improved Generative Steganography Based on Diffusion Model](https://ieeexplore.ieee.org/document/10877890) | Generative          | Binary             |-| 2025             | [Forked code](https://github.com/ZhangQuantum/GSD)  |
 | ERGI | [Establishing Robust Generative Image Steganography via Popular Stable Diffusion](https://ieeexplore.ieee.org/document/10637346) | Generative          | Binary            |Y | 2024             | [Forked code](https://github.com/ZhangQuantum/ERGI)   |
