@@ -1,6 +1,6 @@
 # Hide Image into the Image
 
-| Abb.      | Title                                                                                          | Embedding principle | Information type | Publication year | URL |
+| Abb.      | Title                                                                                          | Embedding principle | Information type | Publication year | Code |
 |-----------|------------------------------------------------------------------------------------------------|---------------------|------------------|------------------|-----|
 | RGSCM     | [Robust Generative Steganography for Image Hiding Using Concatenated Mappings](https://ieeexplore.ieee.org/abstract/document/11018098)                   | Generative          | Image            | 2025             | [Forked code](https://github.com/ZhangQuantum/RGSCM)  |
 | DiffStega | [DiffStega: Towards Universal Training-Free Coverless Image Steganography with Diffusion Models](https://dl.acm.org/doi/10.24963/ijcai.2024/175) | Generative          | Image            | 2024             | [Forked code](https://github.com/ZhangQuantum/DiffStega)   |
@@ -11,7 +11,7 @@
 
 # Hide Binary into the Image
 
-| Abb.      | Title                                                                                          | Embedding principle | Information type |Robustness| Publication year | URL |
+| Abb.      | Title                                                                                          | Embedding principle | Information type |Robust| Publication year | Code |
 |-----------|------------------------------------------------------------------------------------------------|---------------------|------------------|-----|------------------|-----|
 | TransStego     | [A transformer-based adversarial network framework for steganography](https://www.sciencedirect.com/science/article/pii/S0957417425000132)                   | Generative          | Binary            |Y| 2025             | [Forked code](https://github.com/ZhangQuantum/TransStego)  |
 | GSD | [Improved Generative Steganography Based on Diffusion Model](https://ieeexplore.ieee.org/document/10877890) | Generative          | Binary             |-| 2025             | [Forked code](https://github.com/ZhangQuantum/GSD)  |
@@ -24,3 +24,7 @@
 | IDEAS  | [Image Disentanglement Autoencoder for Steganography without Embedding](https://ieeexplore.ieee.org/document/9879479) | Generative          | Binary            |-| 2022             | [Forked code](https://github.com/ZhangQuantum/IDEAS)   |
 | MINICER  | [Improving robust adaptive steganography via minimizing channel errors](https://www.sciencedirect.com/science/article/pii/S0165168422000457) | Generative          | Binary           |Y | 2022             | [Forked code](https://github.com/ZhangQuantum/StegaStyleGAN/MINICER)   |
 | GMAS  | [Robust adaptive steganography based on generalized dither modulation and expanded embedding domain](https://www.sciencedirect.com/science/article/pii/S0165168419303962) | Generative          | Binary           |Y | 2020             | [Forked code](https://github.com/ZhangQuantum/StegaStyleGAN/GMAS)   |
+| J-UNIWARD  | [Universal distortion function for steganography in an arbitrary domain](https://link.springer.com/article/10.1186/1687-417X-2014-1) | Embeded          | Binary           |N | 2014             | [Forked code](https://github.com/ZhangQuantum/J-UNIWARD)   |
+| S-UNIWARD  | [Universal distortion function for steganography in an arbitrary domain](https://link.springer.com/article/10.1186/1687-417X-2014-1) | Embeded          | Binary           |N | 2014             | [Forked code](https://github.com/ZhangQuantum/S-UNIWARD)   |
+| SI-UNIWARD  | [Universal distortion function for steganography in an arbitrary domain](https://link.springer.com/article/10.1186/1687-417X-2014-1) | Embeded          | Binary           |N | 2014             | [Forked code](https://github.com/ZhangQuantum/SI-UNIWARD)   |
+| nsF5  | [Universal distortion function for steganography in an arbitrary domain](https://dl.acm.org/doi/10.1145/1288869.1288872) | Embeded          | Binary           |N | 2007             | [Forked code](https://github.com/ZhangQuantum/nsF5)   |
