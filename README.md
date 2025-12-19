@@ -1,6 +1,5 @@
-# SteganographyRepository
-
 # Image Steganography Repository
+
 
 | Abb.      | Title                                                                                          | Embedding principle | Information type | Publication year | URL |
 |-----------|------------------------------------------------------------------------------------------------|---------------------|------------------|------------------|-----|
